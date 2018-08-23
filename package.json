@@ -1,0 +1,16 @@
+{
+  "name": "CIS 207 Fall 2018",
+  "version": "0.0.1",
+  "description": "Examples and demonstrations from class",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrbuckalew/fall2018.git"
+  },
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
